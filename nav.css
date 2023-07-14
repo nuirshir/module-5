@@ -7,9 +7,12 @@
 nav {
     display: flex;
     justify-content: space-between;
+    padding: 0px 100px 0px 200px;
+    text-align: center;
 }
 nav > ul {
     display: flex;
+    height: 90px;
     text-align: center;
 }
 nav label li{
@@ -19,16 +22,17 @@ nav label li{
 nav a {
     text-decoration: none;
     color: #474747;
+    text-align: center;
 }
 nav button {
-    padding: 12px 20px 9px;
-    border-radius: 10px;
+    margin-top: -10px;
+    padding: 10px 14px 8px;
+    border-radius: 5px;
     background-color: #FD6E0A;
     font-size: larger;
     color: black;
-    font-weight: 600;
+    font-weight: 500;
     border-style: none;
-    box-shadow: 3px 3px 3px #be6e35;
 }
 .nav-title{
 color: var(--dark-01, #181818);
@@ -36,6 +40,7 @@ font-size: 45px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+margin-top: 10px;
 }
 .zoom-color{
     color: #FD6E0A;

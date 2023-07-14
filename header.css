@@ -1,0 +1,33 @@
+
+
+.body-header{
+    background-color: #FFF8F3;
+    height: 500px;
+}
+
+.banar {
+    background-color: #ffae0038;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banar-but1 {
+    padding: 10px 14px 8px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    font-size: larger;
+    color: black;
+    font-weight: 500;
+    border-style: none;
+}
+.banar-but2{
+    padding: 10px 14px 8px;
+    border-radius: 5px;
+    font-size: larger;
+    color: black;
+    font-weight: 400;
+    border: 20px #FD6E0A;
+}
+.banar-pic {
+    height: 400px;
+}
