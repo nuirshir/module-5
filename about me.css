@@ -1,0 +1,36 @@
+
+.about {
+    background: #FFF8F3;
+    text-align: center;
+    margin: 100px 0;
+}
+.about-title{
+    color: #181818;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 25px;
+}
+
+.about-description{
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+}
+.about-bottom{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 25px;
+}
+.about-information{
+    color:#474747;
+    font-size: 15px;
+    font-weight: 400;
+
+}
+.about-info-title{
+    color: #757575;
+    font-size: 15px;
+    font-weight: 600;
+
+}
