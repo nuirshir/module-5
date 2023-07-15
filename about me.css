@@ -3,17 +3,18 @@
     background: #FFF8F3;
     text-align: center;
     margin: 100px 0;
+    padding: 70px;
 }
 .about-title{
     color: #181818;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 700;
     padding: 25px;
 }
 
 .about-description{
     color: #757575;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 400;
 }
 .about-bottom{
@@ -25,7 +26,7 @@
 .about-information{
     color:#474747;
     font-size: 15px;
-    font-weight: 400;
+    font-weight: 700;
 
 }
 .about-info-title{
@@ -33,4 +34,9 @@
     font-size: 15px;
     font-weight: 600;
 
+}
+
+.about-discription, .about-bottom  {
+    padding-right: 70px;
+    padding-left: 70px;
 }
